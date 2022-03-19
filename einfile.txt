@@ -1,2 +1,4 @@
 abc
 änderung1-6 nach tag branch:neuerbranch x
+
+noch eine änderung, konkurrierend
